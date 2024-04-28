@@ -23,7 +23,9 @@ Einstein's theory of special relativity introduced the concept of time dilation,
 
 A speculative equation for time travel, incorporating elements from both special and general relativity, can be formulated as follows:
 
+$$
 \[ T_{\text{travel}} = \frac{E}{\sqrt{m^2 c^4 + p^2 c^2}} \times \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}} \]
+$$
 
 Where:
 - \( T_{\text{travel}} \) is the perceived time elapsed during the time travel event.
@@ -40,7 +42,7 @@ Where:
 - Velocity of manned rocket (relative to Earth's surface): 28000 km/h
 
 Converting the velocity to meters per second:
-\[ v = 28000 \times \frac{1000}{3600} \approx 7778.89 \text{ m/s} \]
+ \[ v = 28000 \times \frac{1000}{3600} \approx 7778.89 \text{ m/s} \]
 
 Substituting the values into the hypothetical time travel equation allows for the estimation of the perceived time elapsed during a time travel event involving a manned rocket.
 
