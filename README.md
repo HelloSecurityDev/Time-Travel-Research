@@ -35,6 +35,14 @@ Where:
 - \( p \) is the momentum of the object or traveler.
 - \( v \) is the velocity of the object or traveler relative to the observer.
 
+Expanding the equation:
+
+$$
+\[ T_{\text{travel}} = \frac{E}{\sqrt{(m c^2)^2 + (p c)^2}} \times \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}} \]
+$$
+
+This formulation incorporates the energy-momentum relation and time dilation effects, providing a hypothetical framework for estimating the perceived time elapsed during a time travel event.
+
 ## Application to Manned Rocket
 
 ### Parameters
@@ -42,7 +50,7 @@ Where:
 - Velocity of manned rocket (relative to Earth's surface): 28000 km/h
 
 Converting the velocity to meters per second:
- \[ v = 28000 \times \frac{1000}{3600} \approx 7778.89 \text{ m/s} \]
+\[ v = 28000 \times \frac{1000}{3600} \approx 7778.89 \text{ m/s} \]
 
 Substituting the values into the hypothetical time travel equation allows for the estimation of the perceived time elapsed during a time travel event involving a manned rocket.
 
